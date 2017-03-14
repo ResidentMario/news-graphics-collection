@@ -1,0 +1,24 @@
+/* layout */
+body {
+    margin:0;
+}
+#navbar {
+    background-color: steelblue;
+    font-family: sans-serif;
+    width: 100%;
+    height: 30px;
+}
+#navbar-name {
+    font-weight: bold;
+    font-size: 16px;
+    padding-top: 0.30em;
+    color: whitesmoke;
+}
+
+#navbar-about {
+    font-size: 12px;
+}
+#display-block {
+    margin-left:20%;
+    margin-right:20%;
+}
